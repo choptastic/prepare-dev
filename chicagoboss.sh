@@ -12,3 +12,4 @@ git clone git@github.com:choptastic/mochicow
 git clone git@github.com:choptastic/mongodb-erlang
 git clone git@github.com:choptastic/tiny_pq
 git clone git@github.com:choptastic/tinymq
+git clone git@github.com:choptastic/cb_admin
